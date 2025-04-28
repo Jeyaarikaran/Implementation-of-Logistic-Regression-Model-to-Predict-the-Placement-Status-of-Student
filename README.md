@@ -63,31 +63,31 @@ RegisterNumber:  212224240064
 ```
 
 ## Output:
-
+## pf.head()
 ![image](https://github.com/user-attachments/assets/c99ce235-71b5-4f2c-a349-e75a6e91375e)
 
-
+## pf1.head()
 ![image](https://github.com/user-attachments/assets/7e010984-20d1-48a2-9d20-bae1f2b8f15a)
 
-
+## Value of x
 ![image](https://github.com/user-attachments/assets/7e0a3c12-edf2-43e6-b6ea-d07416b5ac20)
 
-
+## value of y
 ![image](https://github.com/user-attachments/assets/b73746fd-973f-4666-9e50-1efe6c7e022d)
 
 
-
+## Value of y_pred
 ![image](https://github.com/user-attachments/assets/aaab5b5f-0522-4d37-bba4-1ea93fabd10f)
 
 
-
+## accuracy
 ![image](https://github.com/user-attachments/assets/177b30d9-8425-46ee-94d0-adbea4d35ff8)
 
 
-
+## confusion_matrix
 ![image](https://github.com/user-attachments/assets/c5f62335-9052-4e09-9950-936f248ca812)
 
-
+## classification
 
 ![image](https://github.com/user-attachments/assets/64181729-d936-40bb-b5cb-6fe638258d9c)
 
