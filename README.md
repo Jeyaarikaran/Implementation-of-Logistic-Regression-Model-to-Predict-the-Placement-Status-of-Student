@@ -9,13 +9,17 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Data Collection & Preprocessing
+
 2.Select relevant features that impact placement 
+
 3.Import the Logistic Regression model from sklearn. 
+
 4.Train the model using the training dataset.
+
 5.Use the trained model to predict placement for new student data.
 
 ## Program:
-```
+```.py
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
 data.head()
